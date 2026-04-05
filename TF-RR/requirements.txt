@@ -1,0 +1,11 @@
+einops==0.8.2
+extensions==0.4
+matplotlib==3.10.8
+numpy==2.4.4
+pandas==3.0.2
+pykeops==2.3
+pytorch_lightning==1.9.4
+scikit_learn==1.8.0
+scipy==1.17.1
+torch==2.6.0+cu118
+tqdm==4.67.1
